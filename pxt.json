@@ -10,7 +10,9 @@
         "radio-broadcast": "*",
         "audio-recording": "*",
         "datalogger": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.7.6"
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.6",
+        "Sound Level in decibels (dB)": "github:microbit-foundation/pxt-sound-level-db#v0.1.13",
+        "microbit-pxt-timeanddate": "github:bsiever/microbit-pxt-timeanddate#v2.0.33"
     },
     "files": [
         "main.blocks",
